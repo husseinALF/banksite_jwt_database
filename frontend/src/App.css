@@ -1,0 +1,23 @@
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 6em;
+  flex-direction: column;
+  gap: 1em;
+}
+
+label {
+  font-size: larger;
+}
+
+button {
+  padding: 0.5em 1.5em;
+  border-style: none;
+  background-color: rgb(74, 105, 231);
+  color: white;
+}
+body {
+  background-color: aquamarine;
+  text-align: center;
+}
